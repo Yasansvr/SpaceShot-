@@ -19,7 +19,7 @@ This project is my **first attempt at game development**, created to practice C 
 
 ## 🖼️ Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot.png)
 
 ---
 
