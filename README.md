@@ -48,11 +48,11 @@ This project is my **first attempt at game development**, created to practice C 
 ### Compile (example on Linux)
 
 ```bash
-gcc main.c -o spaceshot -lraylib -lm -ldl -lpthread -lX11
+cc mypro.c -o mypro $(pkg-config --cflags --libs raylib)
 ```
 
 ## Run
 ```bash
-./spaceshot
+./mypro
 ```
 
